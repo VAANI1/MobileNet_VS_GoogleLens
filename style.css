@@ -1,0 +1,51 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div {
+    background-color: bisque;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+    float: none;
+    padding: 10px;
+}
+
+.test_Image_and_result {
+    background-color: bisque;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+    float: none;
+    padding: 10px;
+
+}
+
+.img-responsive {
+    height: 120px;
+    width: 120px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+    color: rgb(245, 240, 240);
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
+
+.base{
+    background-color: rgb(250, 182, 235);
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+    float: none;
+    padding: 10px; 
+    height: 150px;
+    width: 1000px;
+}
